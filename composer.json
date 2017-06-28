@@ -1,0 +1,20 @@
+{
+  "name": "zmingzhi/alipay",
+  "description": "支付宝组件",
+  "type": "project",
+  "keywords": [
+    "alipay",
+    "支付宝支付"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": [],
+    "psr-4": {
+      "zongphp\\alipay\\": "src"
+    }
+  }
+}
