@@ -6,7 +6,7 @@ use zongphp\framework\build\Provider;
 class AliPayProvider extends Provider {
 
 	//延迟加载
-	public $defer = true;
+	public $defer = false;
 
 	public function boot() {
 	}
